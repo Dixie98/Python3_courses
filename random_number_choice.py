@@ -14,3 +14,4 @@ random_number = random.randint(0,10)
 user_number = int(input('Enter the number: '))
 
 launch_test = func_check(user_number)
+
